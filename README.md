@@ -171,11 +171,6 @@ For demo codes, please refer to the [docs](https://echarts.icepear.org/) and [ex
 
 Welcome more contribution in the community!
 
-## 💌 Acknowledgement
-- This project is inspired by the Homework 6 of the course [Principles of Software Construction Objects, Design, and Concurrency](https://cmu-17-214.github.io/f2021/), Fall 2021, at [Carnegie Mellon University](https://www.cmu.edu/). We sincerely thank [Christian](https://www.cs.cmu.edu/~ckaestne/) and [Vincent](https://vhellendoorn.github.io/) for the wonderful course.
-
-- This project is also inspired by the [pyecharts](https://github.com/pyecharts/pyecharts) and [go-echarts](https://github.com/go-echarts/go-echarts), which are the ECharts siblings in Python and Go languages.
-
 ## 🎈 License
 
 ECharts Java is available under the [Apache License 2.0](LICENSE).
